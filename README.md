@@ -1,6 +1,6 @@
 # Yut Nori/Yunnori (윷놀이) - Traditional Korean Board Game in C++
 
-This repository contains an implementation of **Yut Nori (윷놀이)**, a traditional Korean board game, in C++17. The game includes both a **Basic** and **Advanced** version. The advanced version features enhanced functionality like login, save, pause, exit, loading games, and multiple players with different animal characters that have unique abilities.
+This repository contains an implementation of **Yut Nori (윷놀이)**, a traditional Korean board game, in C++17. The game includes both a **Basic** and **Advanced** version. The advanced version features enhanced functionality like login, save, pause, exit, loading games, and multiple players with different animal characters that have unique abilities. For more detail, check the <span style="color: green;">game_rules.pdf</span> file. 
 
 ## About Yut Nori (윷놀이)
 
@@ -58,7 +58,7 @@ After compiling, run the executable:
 ```bash
 ./yunnori
 ```
-Sample advanced game board with 4 player and 4 pieces per player.
+Sample advanced game board with 4 players and 4 pieces per player.
 
 ![image](https://github.com/user-attachments/assets/22d34d21-dcd5-4aa6-9abf-fa1c90539263)
 
@@ -66,7 +66,6 @@ Sample advanced game board with 4 player and 4 pieces per player.
 * Basic Mode: Start a game with a simple set of rules.
 
 * Advanced Mode: Start a game with login, save/load, and animal-specific abilities.
-## Sample Board
 
 
 ## Game Controls

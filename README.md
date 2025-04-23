@@ -60,7 +60,7 @@ After compiling, run the executable:
 ```
 Sample advanced game board with 4 players and 4 pieces per player.
 
-![image](https://github.com/user-attachments/assets/22d34d21-dcd5-4aa6-9abf-fa1c90539263)
+![image](img/sample_game.png)
 
 ## Game Modes:
 * Basic Mode: Start a game with a simple set of rules.
